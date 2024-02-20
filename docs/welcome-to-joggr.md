@@ -37,7 +37,7 @@ All of this is automated. All you need to do is go to [app.joggr.io](app.joggr.i
 
 # Video Tutorials
 
-Watch the videos below to learn more about how we use Joggr @ Joggr 😀 If you are looking for more help, please reach out to us in your company's slack channel or email Seth directly. <seth@joggr.io>
+Watch the videos below to learn more about how we use Joggr @ Joggr 😀 If you are looking for more help, please reach out to us in your company's slack channel or email Seth directly at <seth@joggr.io>
 
 ## How to Import Existing GitHub Markdown Documentation
 
@@ -55,7 +55,7 @@ Watch the videos below to learn more about how we use Joggr @ Joggr 😀 If you 
 
 **Can I see an audit history?**
 
-*Yes, of course. Joggr is built on-top of GitHub. Every JoggrDoc created is committed to GitHub. Therefore, you can manage the audit history just like you do with your codebase *😀* *[*Here*](https://docs.github.com/en/repositories/working-with-files/using-files/viewing-a-file)* is GitHub's documentation on how to view the history of a file.*
+*Yes, of course. Joggr is built on top of GitHub. Every JoggrDoc created is committed to GitHub. Therefore, you can manage the audit history just like you do with your codebase *😀* *[*Here*](https://docs.github.com/en/repositories/working-with-files/using-files/viewing-a-file)* is GitHub's documentation on how to view the history of a file.*
 
 **What happens when I move documents in Joggr? GitHub?**
 
@@ -67,9 +67,7 @@ Watch the videos below to learn more about how we use Joggr @ Joggr 😀 If you 
 
 *When you delete a document in Joggr, it only deletes it in Joggr. The document will remain in Github. If you delete a document in GitHub, then the document will be deleted in both GitHub and Joggr.*
 
-**How do I name a document?**
-
-When creating a document, you name the doc. You are unable to edit the name in Joggr right now, you must go to GitHub.
+**How do I add more repositories to Joggr?**
 
 <!-- @joggr:editLink(d7a40021-0c3b-4be0-ac2d-f86affb84027):start -->
 ---
