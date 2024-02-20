@@ -13,7 +13,23 @@ ability to auto-maintain this document. Please use the Joggr editor to edit this
 (link at bottom of the page).
 -->
 <!-- @joggr:warning:end -->
-This is just the beginning of the do
+# Summary
+
+* Welcome the User
+
+* MUST define what jogger is
+
+* MUST define how we can help
+
+* SHOULD keep this to 1 paragraph
+
+# Getting Started
+
+MUST have onboarding instructions for how to install our GitHub app and Sign-Up
+
+# Tutorials
+
+# Common FAQs
 
 <!-- @joggr:editLink(d7a40021-0c3b-4be0-ac2d-f86affb84027):start -->
 ---
