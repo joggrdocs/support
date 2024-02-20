@@ -45,21 +45,21 @@ MUST have onboarding instructions for how to install our GitHub app and Sign-Up
 
 **Can I see an audit history?**
 
-*Yes, of course. Joggr is built on-top of GitHub. Every JoggrDoc created is committed to GitHub. Therefore, you can manage the audit history just like you do with your codebase 😀 *[*Here*](https://docs.github.com/en/repositories/working-with-files/using-files/viewing-a-file)* is GitHub's documentation on how to view the history of a file.*
+*Yes, of course. Joggr is built on-top of GitHub. Every JoggrDoc created is committed to GitHub. Therefore, you can manage the audit history just like you do with your codebase *😀* *[*Here*](https://docs.github.com/en/repositories/working-with-files/using-files/viewing-a-file)* is GitHub's documentation on how to view the history of a file.*
 
-* How do I move a document in Joggr? 
+**What happens when I move documents in Joggr? GitHub?**
 
-* How do I move a document in GitHub? (rename while moving is only thing we do not handle)
+*In Joggr, feel free to move documents into any directory that you desire. Moving documents between directories in Joggr will have zero impact on where this is stored in GitHub.*
 
-* What happens if I delete a doc in Joggr? (Joggr only)
+*If you move a document (.md) file in GitHub that also exists in Joggr, there will be no issue. However, there is one edge case we currently do not support. If you move a GitHub .md file to another location in GitHub AND rename it at the same time, Joggr will not update our understanding of its location. This could cause things to break.*
 
-* What happens if I delete a doc in GitHub? (both)
+**What happens when I delete a document? Does it delete in GitHub?**
 
-* How do I know the last person who edited a doc?
+*When you delete a document in Joggr, it only deletes it in Joggr. The document will remain in Github. If you delete a document in GitHub, then the document will be deleted in both GitHub and Joggr.*
 
-* How do you name a document in the markdown? (name on Create, Unable to change on Edit, must go to GitHub to change name)
+**How do I name a document?**
 
-* How do you move the location? (must do in Github or Directory Structure)
+When creating a document, you name the doc. You are unable to edit the name in Joggr right now, you must go to GitHub.
 
 <!-- @joggr:editLink(d7a40021-0c3b-4be0-ac2d-f86affb84027):start -->
 ---
