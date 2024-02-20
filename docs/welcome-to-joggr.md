@@ -29,9 +29,17 @@ MUST have onboarding instructions for how to install our GitHub app and Sign-Up
 
 # Tutorials
 
-[Real World Example: Importing existing GitHub Markdown - Watch Video](https://www.loom.com/share/d03d211fc2e941d392d3899931e60ddc)
+## How to Import Existing GitHub Markdown Documentation
 
 ![](https://cdn.loom.com/sessions/thumbnails/d03d211fc2e941d392d3899931e60ddc-1708038436059-with-play.gif)
+
+## How to create your first How-to-Guide in Joggr
+
+![](https://cdn.loom.com/sessions/thumbnails/0f2809f337c1428c9ba623dc79a1e7bb-1708037476848-with-play.gif)
+
+## How to organize documentation in Joggr
+
+![](https://cdn.loom.com/sessions/thumbnails/bc69947b2446491bb11d17efaf7b4a21-1707529930497-with-play.gif)
 
 # Common FAQs
 
