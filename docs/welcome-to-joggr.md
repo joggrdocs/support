@@ -25,9 +25,17 @@ ability to auto-maintain this document. Please use the Joggr editor to edit this
 
 # Getting Started
 
-MUST have onboarding instructions for how to install our GitHub app and Sign-Up
+To onboard and start using Joggr, you only need to complete two steps:
 
-# Tutorials
+1. Install our GitHub App
+
+2. Sign-Up
+
+All of this is automated. All you need to do is go to [app.joggr.io](app.joggr.io)
+
+# Video Tutorials
+
+Watch the videos below to learn more about how we use Joggr @ Joggr 😀 If you are looking for more help, please reach out to us in your company's slack channel or email Seth directly. seth\@joggr.io
 
 ## How to Import Existing GitHub Markdown Documentation
 
