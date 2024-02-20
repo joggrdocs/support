@@ -43,6 +43,24 @@ MUST have onboarding instructions for how to install our GitHub app and Sign-Up
 
 # Common FAQs
 
+**Can I see an audit history?**
+
+*Yes, of course. Joggr is built on-top of GitHub. Every JoggrDoc created is committed to GitHub. Therefore, you can manage the audit history just like you do with your codebase 😀 *[*Here*](https://docs.github.com/en/repositories/working-with-files/using-files/viewing-a-file)* is GitHub's documentation on how to view the history of a file.*
+
+* How do I move a document in Joggr? 
+
+* How do I move a document in GitHub? (rename while moving is only thing we do not handle)
+
+* What happens if I delete a doc in Joggr? (Joggr only)
+
+* What happens if I delete a doc in GitHub? (both)
+
+* How do I know the last person who edited a doc?
+
+* How do you name a document in the markdown? (name on Create, Unable to change on Edit, must go to GitHub to change name)
+
+* How do you move the location? (must do in Github or Directory Structure)
+
 <!-- @joggr:editLink(d7a40021-0c3b-4be0-ac2d-f86affb84027):start -->
 ---
 <a href="https://app.joggr.io/app/documents/d7a40021-0c3b-4be0-ac2d-f86affb84027/edit" alt="Edit doc on Joggr">
