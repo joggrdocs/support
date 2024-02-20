@@ -28,7 +28,6 @@ ability to auto-maintain this document. Please use the Joggr editor to edit this
 To onboard and start using Joggr, you only need to complete two steps:
 
 1. Install our GitHub App
-
 2. Sign-Up
 
 All of this is automated. All you need to do is go to [app.joggr.io](app.joggr.io)
