@@ -15,26 +15,29 @@ ability to auto-maintain this document. Please use the Joggr editor to edit this
 <!-- @joggr:warning:end -->
 # Summary
 
-* Welcome the User
+Hello, welcome to Joggr! 😁 We (Zac and Seth) started Joggr, because we had a love/hate relationship with documentation. We love the benefits but hate the time required to do it well! In short, we built Joggr for people like us, software developers.
 
-* MUST define what jogger is
+**What is Joggr?**
 
-* MUST define how we can help
+Joggr is an internal knowledge base for software developers. Joggr integrates directly with GitHub and your IDE (COMING SOON), helps you define your documentation process, and automatically maintains the documentation for you. We support everything from code documentation, how-to guides, SOPs, and diagrams.
 
-* SHOULD keep this to 1 paragraph
+**What is Joggr NOT?**
+
+Joggr is meant for software developers. Other documentation platforms like confluence or notion are used by folks in Operations, HR, and more. Our focus is **all on software engineers**. We do have some product managers who use Joggr as well.
 
 # Getting Started
 
 To onboard and start using Joggr, you only need to complete two steps:
 
 1. Install our GitHub App
+
 2. Sign-Up
 
 All of this is automated. All you need to do is go to [app.joggr.io](app.joggr.io)
 
 # Video Tutorials
 
-Watch the videos below to learn more about how we use Joggr @ Joggr 😀 If you are looking for more help, please reach out to us in your company's slack channel or email Seth directly. seth\@joggr.io
+Watch the videos below to learn more about how we use Joggr @ Joggr 😀 If you are looking for more help, please reach out to us in your company's slack channel or email Seth directly. <seth@joggr.io>
 
 ## How to Import Existing GitHub Markdown Documentation
 
