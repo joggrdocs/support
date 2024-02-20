@@ -29,6 +29,10 @@ MUST have onboarding instructions for how to install our GitHub app and Sign-Up
 
 # Tutorials
 
+[Real World Example: Importing existing GitHub Markdown - Watch Video](https://www.loom.com/share/d03d211fc2e941d392d3899931e60ddc)
+
+![](https://cdn.loom.com/sessions/thumbnails/d03d211fc2e941d392d3899931e60ddc-1708038436059-with-play.gif)
+
 # Common FAQs
 
 <!-- @joggr:editLink(d7a40021-0c3b-4be0-ac2d-f86affb84027):start -->
