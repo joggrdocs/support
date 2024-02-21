@@ -43,7 +43,7 @@ Watch the videos below to learn more about how we use Joggr @ Joggr 😀 If you 
 
 ## How to Import Existing GitHub Markdown Documentation
 
-When you import GitHub markdown to Joggr, we create a Pull Request.
+When you import GitHub markdown to Joggr, we create a Pull Request. [Here ](https://github.com/joggrdocs/support/pull/1)is an example of what this will look like and why Joggr does this. **Please make sure to merge this pull request**, so that you do not run into merge errors (this would only occur if you leave this pull request open for a long time and there are conflicts).
 
 [Real World Example: Importing existing GitHub Markdown](https://www.loom.com/share/d03d211fc2e941d392d3899931e60ddc)
 
