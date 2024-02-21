@@ -47,17 +47,13 @@ Watch the video below to learn how to import existing GitHub markdown into Joggr
 
 If you're looking for help importing documents from Confluence, Notion, Google Drive, or other platforms, please reach out to the Joggr team and we will assist.
 
-[Real World Example: Importing existing GitHub Markdown](https://www.loom.com/share/d03d211fc2e941d392d3899931e60ddc)
-
-![](https://cdn.loom.com/sessions/thumbnails/d03d211fc2e941d392d3899931e60ddc-1708038436059-with-play.gif)
+[https://www.loom.com/share/d03d211fc2e941d392d3899931e60ddc](https://www.loom.com/share/d03d211fc2e941d392d3899931e60ddc)
 
 ## How to create documentation in Joggr
 
 Watch the video below from our CTO as he walks through how to create documentation using Joggr.
 
-[Real World Example: Creating a How-to Guide - Watch Video](https://www.loom.com/share/0f2809f337c1428c9ba623dc79a1e7bb)
-
-![](https://cdn.loom.com/sessions/thumbnails/0f2809f337c1428c9ba623dc79a1e7bb-1708037476848-with-play.gif)
+[https://www.loom.com/share/0f2809f337c1428c9ba623dc79a1e7bb](https://www.loom.com/share/0f2809f337c1428c9ba623dc79a1e7bb)
 
 ## How to organize documentation in Joggr
 
