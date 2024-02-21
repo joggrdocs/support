@@ -21,7 +21,7 @@ Hello, welcome to Joggr! 😀 We ([Zac](https://www.linkedin.com/in/zacrosenbaue
 
 Joggr is an internal knowledge base for software developers. Joggr integrates directly with GitHub and your IDE (COMING SOON), helps you define your documentation process, and automatically maintains the documentation for you. We support everything from code documentation, how-to guides, SOPs, and diagrams. If there is a use case we currently do not support, please let us know.
 
-**What is Joggr NOT?**
+**What is Joggr for?**
 
 Joggr is meant for software developers. Other documentation platforms like confluence or notion are used by folks in Operations, HR, and more. Our focus is **all on software engineers**. We do have some product managers who use Joggr as well.
 
