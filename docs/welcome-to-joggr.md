@@ -15,11 +15,11 @@ ability to auto-maintain this document. Please use the Joggr editor to edit this
 <!-- @joggr:warning:end -->
 # Summary
 
-Hello, welcome to Joggr! 😁 We (Zac and Seth) started Joggr, because we had a love/hate relationship with documentation. We love the benefits but hate the time required to do it well! In short, we built Joggr for people like us, software developers.
+Hello, welcome to Joggr! 😀 We ([Zac](https://www.linkedin.com/in/zacrosenbauer/) and [Seth](https://www.linkedin.com/in/sethrosenbauer/)) started Joggr, because we had a love/hate relationship with documentation. We love the benefits but hate the time required to do it well! In short, we built Joggr for people like us, software developers.
 
 **What is Joggr?**
 
-Joggr is an internal knowledge base for software developers. Joggr integrates directly with GitHub and your IDE (COMING SOON), helps you define your documentation process, and automatically maintains the documentation for you. We support everything from code documentation, how-to guides, SOPs, and diagrams.
+Joggr is an internal knowledge base for software developers. Joggr integrates directly with GitHub and your IDE (COMING SOON), helps you define your documentation process, and automatically maintains the documentation for you. We support everything from code documentation, how-to guides, SOPs, and diagrams. If there is a use case we currently do not support, please let us know.
 
 **What is Joggr NOT?**
 
@@ -33,7 +33,9 @@ To onboard and start using Joggr, you only need to complete two steps:
 
 2. Sign-Up
 
-All of this is automated. All you need to do is go to [app.joggr.io](app.joggr.io)
+To onboard, go to [app.joggr.io](app.joggr.io) and follow the instructions. This should take **\~3-5 minutes**. If you're having any trouble, please reach out to us on your company's Slack channel or email our CEO Seth at <seth@joggr.io>.
+
+Once, you completed the onboarding, check out our video tutorials that will help you get started with importing existing documentation, creating documentation, and organizing documentation on Joggr.
 
 # Video Tutorials
 
