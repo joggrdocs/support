@@ -23,7 +23,7 @@ Joggr is an internal knowledge base for software developers. Joggr integrates di
 
 **What is Joggr for?**
 
-Joggr is meant for software developers and writing technical documentation. Other documentation platforms like confluence or notion are used by folks in Operations, HR, and more. Our focus is **all on software developers** and building for their use case.
+Joggr is meant for software developers who are writing technical documentation. Other documentation platforms like confluence or notion are used by folks in Operations, HR, and more. Our focus is **all on software developers** and building for their use cases.
 
 # Getting Started
 
@@ -33,7 +33,7 @@ To onboard and start using Joggr, you only need to complete two steps:
 
 2. Sign-Up
 
-To onboard, go to [app.joggr.io](app.joggr.io) and follow the instructions to install our GitHub app and sign-up. This should take **\~3-5 minutes**. If you're having any trouble, please reach out to us on your company's Slack channel or email our CEO Seth at <seth@joggr.io>.
+To onboard, go to [app.joggr.io](app.joggr.io) and follow the instructions to install our GitHub app and sign up. This should take **\~3-5 minutes**. If you're having any trouble, please reach out to us on your company's Slack channel or email our CEO Seth at <seth@joggr.io>.
 
 Once, you completed the onboarding, check out our video tutorials that will help you get started with importing existing documentation, creating documentation, and organizing documentation on Joggr.
 
@@ -51,6 +51,8 @@ When you import GitHub markdown to Joggr, we create a Pull Request. [Here ](http
 
 ## How to create your first How-to-Guide in Joggr
 
+[Real World Example: Creating a How-to Guide - Watch Video](https://www.loom.com/share/0f2809f337c1428c9ba623dc79a1e7bb)
+
 ![](https://cdn.loom.com/sessions/thumbnails/0f2809f337c1428c9ba623dc79a1e7bb-1708037476848-with-play.gif)
 
 ## How to organize documentation in Joggr
@@ -58,6 +60,10 @@ When you import GitHub markdown to Joggr, we create a Pull Request. [Here ](http
 ![](https://cdn.loom.com/sessions/thumbnails/bc69947b2446491bb11d17efaf7b4a21-1707529930497-with-play.gif)
 
 # Common FAQs
+
+**How do I add a code snippet to my document?**
+
+*Please watch *[*this *](https://www.loom.com/share/0f2809f337c1428c9ba623dc79a1e7bb)*30-second video on how to add a code snippet to a document.*
 
 **Can I see an audit history?**
 
