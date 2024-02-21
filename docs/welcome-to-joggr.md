@@ -43,7 +43,7 @@ Watch the videos below to learn more about how we use Joggr @ Joggr 😀 If you 
 
 ## How to Import Existing Documentation
 
-When you import GitHub markdown to Joggr, we create a Pull Request. [Here ](https://github.com/joggrdocs/support/pull/1)is an example of what this will look like and why Joggr does this. **Please make sure to merge this pull request**, so that you do not run into merge errors (this would only occur if you leave this pull request open for a long time and there are conflicts).
+Watch the video below to learn how to import existing GitHub markdown into Joggr. When you import GitHub markdown to Joggr, we create a Pull Request. [Here ](https://github.com/joggrdocs/support/pull/1)is an example of what this will look like and why Joggr does this. **Please make sure to merge this pull request**, so that you do not run into merge errors (this would only occur if you leave this pull request open for a long time and there are conflicts).
 
 If you're looking for help importing documents from confluence, notion, Google Drive, or other platforms, please reach out to the Joggr team and we will assist.
 
