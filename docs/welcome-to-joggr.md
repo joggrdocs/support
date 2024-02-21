@@ -45,7 +45,7 @@ Watch the videos below to learn more about how we use Joggr @ Joggr 😀 If you 
 
 Watch the video below to learn how to import existing GitHub markdown into Joggr. When you import GitHub markdown to Joggr, we create a Pull Request. [Here ](https://github.com/joggrdocs/support/pull/1)is an example of what this will look like and why Joggr does this. **Please make sure to merge this pull request**, so that you do not run into merge errors (this would only occur if you leave this pull request open for a long time and there are conflicts).
 
-If you're looking for help importing documents from confluence, notion, Google Drive, or other platforms, please reach out to the Joggr team and we will assist.
+If you're looking for help importing documents from Confluence, Notion, Google Drive, or other platforms, please reach out to the Joggr team and we will assist.
 
 [Real World Example: Importing existing GitHub Markdown](https://www.loom.com/share/d03d211fc2e941d392d3899931e60ddc)
 
@@ -73,7 +73,7 @@ If you need help on how to think about this, please reach out to the Joggr team 
 
 **Can I see an audit history?**
 
-Yes, of course. Joggr is built on top of GitHub. Every JoggrDoc created is committed to GitHub as a markdown file. Therefore, you can manage the audit history just like you do with your codebase 😀 [Here](https://docs.github.com/en/repositories/working-with-files/using-files/viewing-a-file) is GitHub's documentation on how to view the history of a file.
+Yes, of course. Joggr is built on top of GitHub. Every JoggrDoc created is committed to GitHub as a markdown file. Therefore, you can manage the audit history just like you do with your codebase 😀 [Here](https://docs.github.com/en/repositories/working-with-files/using-files/viewing-a-file#viewing-the-line-by-line-revision-history-for-a-file) is GitHub's documentation on how to view the history of a file.
 
 **What happens when I move documents in Joggr? GitHub?**
 
