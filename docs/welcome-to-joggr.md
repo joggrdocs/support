@@ -41,15 +41,19 @@ Once, you completed the onboarding, check out our video tutorials that will help
 
 Watch the videos below to learn more about how we use Joggr @ Joggr 😀 If you are looking for more help, please reach out to us in your company's slack channel or email Seth directly at <seth@joggr.io>
 
-## How to Import Existing GitHub Markdown Documentation
+## How to Import Existing Documentation
 
 When you import GitHub markdown to Joggr, we create a Pull Request. [Here ](https://github.com/joggrdocs/support/pull/1)is an example of what this will look like and why Joggr does this. **Please make sure to merge this pull request**, so that you do not run into merge errors (this would only occur if you leave this pull request open for a long time and there are conflicts).
+
+If you're looking for help importing documents from confluence, notion, google drive, or other platforms, please reach out to the Joggr team and we will assist.
 
 [Real World Example: Importing existing GitHub Markdown](https://www.loom.com/share/d03d211fc2e941d392d3899931e60ddc)
 
 ![](https://cdn.loom.com/sessions/thumbnails/d03d211fc2e941d392d3899931e60ddc-1708038436059-with-play.gif)
 
-## How to create your first How-to-Guide in Joggr
+## How to create documentation in Joggr
+
+Watch the video below from our CTO as he walks through how to create documentation using Joggr.
 
 [Real World Example: Creating a How-to Guide - Watch Video](https://www.loom.com/share/0f2809f337c1428c9ba623dc79a1e7bb)
 
@@ -57,13 +61,17 @@ When you import GitHub markdown to Joggr, we create a Pull Request. [Here ](http
 
 ## How to organize documentation in Joggr
 
+Watch the video below from our CTO as he walks through how to organize documentation. We've learned that architecturing your directory structure becomes extremely important, so that developers can easily find what you need. If you need help on how to think about this (we acknowledge this is very hard), please reach out to the Joggr team.
+
+[Real World Example: Organizing Documentation at Joggr - Watch Video](https://www.loom.com/share/bc69947b2446491bb11d17efaf7b4a21)
+
 ![](https://cdn.loom.com/sessions/thumbnails/bc69947b2446491bb11d17efaf7b4a21-1707529930497-with-play.gif)
 
 # Common FAQs
 
 **How do I add a code snippet to my document?**
 
-*Please watch *[*this *](https://www.loom.com/share/0f2809f337c1428c9ba623dc79a1e7bb)*30-second video on how to add a code snippet to a document.*
+\*Please watch \*[\*this \*](https://www.loom.com/share/0f2809f337c1428c9ba623dc79a1e7bb)*30-second video on how to add a code snippet to a document.*
 
 **Can I see an audit history?**
 
