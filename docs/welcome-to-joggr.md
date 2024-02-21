@@ -23,7 +23,7 @@ Joggr is an internal knowledge base for software developers. Joggr integrates di
 
 **What is Joggr for?**
 
-Joggr is meant for software developers. Other documentation platforms like confluence or notion are used by folks in Operations, HR, and more. Our focus is **all on software engineers**. We do have some product managers who use Joggr as well.
+Joggr is meant for software developers and writing technical documentation. Other documentation platforms like confluence or notion are used by folks in Operations, HR, and more. Our focus is **all on software developers** and building for their use case.
 
 # Getting Started
 
