@@ -33,7 +33,7 @@ To onboard and start using Joggr, you only need to complete two steps:
 
 2. Sign-Up
 
-To onboard, go to [app.joggr.io](app.joggr.io) and follow the instructions. This should take **\~3-5 minutes**. If you're having any trouble, please reach out to us on your company's Slack channel or email our CEO Seth at <seth@joggr.io>.
+To onboard, go to [app.joggr.io](app.joggr.io) and follow the instructions to install our GitHub app and sign-up. This should take **\~3-5 minutes**. If you're having any trouble, please reach out to us on your company's Slack channel or email our CEO Seth at <seth@joggr.io>.
 
 Once, you completed the onboarding, check out our video tutorials that will help you get started with importing existing documentation, creating documentation, and organizing documentation on Joggr.
 
