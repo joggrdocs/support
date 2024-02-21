@@ -15,7 +15,7 @@ ability to auto-maintain this document. Please use the Joggr editor to edit this
 <!-- @joggr:warning:end -->
 # Summary
 
-Hello, welcome to Joggr! 😀 We ([Zac](https://www.linkedin.com/in/zacrosenbauer/) and [Seth](https://www.linkedin.com/in/sethrosenbauer/)) started Joggr, because we had a love/hate relationship with documentation. We love the benefits but hate the time required to do it well! In short, we built Joggr for people like us, software developers.
+Hello, welcome to Joggr! 😀 We ([Zac](https://www.linkedin.com/in/zacrosenbauer/) and [Seth](https://www.linkedin.com/in/sethrosenbauer/)) started Joggr, because we have a love/hate relationship with documentation. We love the benefits but hate the time required to do it well! In short, we built Joggr for people like us, software developers.
 
 **What is Joggr?**
 
