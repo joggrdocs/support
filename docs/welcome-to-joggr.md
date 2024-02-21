@@ -43,6 +43,8 @@ Watch the videos below to learn more about how we use Joggr @ Joggr 😀 If you 
 
 ## How to Import Existing GitHub Markdown Documentation
 
+When you import GitHub markdown to Joggr, we create a Pull Request.
+
 [Real World Example: Importing existing GitHub Markdown](https://www.loom.com/share/d03d211fc2e941d392d3899931e60ddc)
 
 ![](https://cdn.loom.com/sessions/thumbnails/d03d211fc2e941d392d3899931e60ddc-1708038436059-with-play.gif)
