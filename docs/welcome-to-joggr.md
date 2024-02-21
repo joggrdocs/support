@@ -65,9 +65,7 @@ Watch the video below from our CTO as he walks through how to organize documenta
 
 If you need help on how to think about this, please reach out to the Joggr team and we can provide examples of what other teams have done. Watch the video below to see an example of how we set up our directory structure.
 
-[Real World Example: Organizing Documentation at Joggr - Watch Video](https://www.loom.com/share/bc69947b2446491bb11d17efaf7b4a21)
-
-![](https://cdn.loom.com/sessions/thumbnails/bc69947b2446491bb11d17efaf7b4a21-1707529930497-with-play.gif)
+[https://www.loom.com/share/bc69947b2446491bb11d17efaf7b4a21](https://www.loom.com/share/bc69947b2446491bb11d17efaf7b4a21)
 
 # Common FAQs
 
