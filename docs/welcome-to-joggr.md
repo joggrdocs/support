@@ -87,9 +87,15 @@ For example, let's say that a developer adds a code snippet like the following t
 
 ## Can you update the markdown file in GitHub?
 
-Yes, you can make changes to the markdown file in your IDE, GitHub, or Joggr. If you are making edits to the document in your IDE or GitHub, do not do any of the following or it will break Joggr's connection to this document:
+Yes, you can make changes to the markdown file in your IDE, GitHub, or Joggr. If you are making edits to the document in your IDE or GitHub, do not do any of the following or it will break Joggr's connection to this document and Joggr will be unable to maintain the document for you automatically:
 
-* Do NOT change anything in the Header, specifically anything above `<!-- @joggr`⚠`end -->`
+* Do NOT change the Header, specifically anything above `<!-- @joggr⚠end -->`
+
+* Do NOT change the Footer, specifically anything below `<!-- @joggr:editLink(d7a40021-0c3b-4be0-ac2d-f86affb84027):start -->`
+
+* Do NOT change any code snippets that were added to the document using Joggr's Code Snippet Explorer
+
+The additions at the Header and Footer are how Joggr tracks changes to these documents.
 
 ## Is there an audit history?
 
