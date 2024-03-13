@@ -71,10 +71,6 @@ If you need help on how to think about this, please reach out to the Joggr team 
 
 # Common FAQs
 
-**Top FAQs**
-
-1. Can you update the documents in GitHub, and IDE, or do all changes need to occur in Joggr?
-
 ## Where in GitHub is the document saved?
 
 ## How does Joggr maintain the document?
@@ -83,31 +79,11 @@ If you need help on how to think about this, please reach out to the Joggr team 
 
 Yes, you can make changes to the markdown file in your IDE, GitHub, or Joggr. If you are making edits to the document in your IDE or GitHub, do not do any of the following or it will break Joggr's connection to this document:
 
-* Do NOT change anything in the Header, specifically anything above `<!-- @joggr⚠end -->`
-
-* Do NOT change anything in the Footer, specifically, anything below `<!-- @joggr:editLink(558d484d-9fc2-41d1-9321-c31093e9946c):start -->`
-
-* If you added code snippets to the document using Joggr, do NOT change these code snippets.
-
-For these reasons, we recommend making all updates in Joggr, so that Joggr can keep the connection to this document, which is how we help maintain the document.
-
-## How do you delete a document?
-
-To delete a document, click on the ellipsis in the top right corner of a document and click "Delete". This will only delete the document from Joggr, it does not delete the document in GitHub. If you want to delete the document in GitHub, go to GitHub and delete the document. When you delete a document from GitHub, Joggr automatically deletes the document in Joggr.
-
-## What happens when I move documents in Joggr? GitHub?
-
-In Joggr, feel free to move documents into any directory that you desire. Moving documents between directories in Joggr will have zero impact on where this is stored in GitHub.
-
-If you move a document (.md) file in GitHub that also exists in Joggr, there will be no issue. However, there is one edge case we currently do not support. If you move a GitHub .md file to another location in GitHub AND rename it at the same time, this will cause the Joggr "link" to the document to break. We use this link to help maintain the document. Please reach out if you have any questions on this edge case.
+* Do NOT change anything in the Header, specifically anything above `<!-- @joggr`⚠`end -->`
 
 ## Is there an audit history?
 
-Yes, there is an audit history. Joggr is built on top of GitHub. Every JoggrDoc created is committed to GitHub as a markdown file. Therefore, you can manage the audit history just like you do with your codebase 😀 [Here](https://docs.github.com/en/repositories/working-with-files/using-files/viewing-a-file#viewing-the-line-by-line-revision-history-for-a-file) is GitHub's documentation on how to view the history of a file.
-
-# Need Help?
-
-If you are looking for more help, please reach out to us in your company's slack channel or email Seth directly at <seth@joggr.io>
+## What happens when I move documents in Joggr? GitHub?
 
 <!-- @joggr:editLink(d7a40021-0c3b-4be0-ac2d-f86affb84027):start -->
 ---
