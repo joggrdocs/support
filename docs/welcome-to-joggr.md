@@ -89,6 +89,10 @@ For example, let's say that a developer adds a code snippet like the following t
 
 You can change the markdown file in your IDE, GitHub, or Joggr. If you are making edits to the document in your IDE or GitHub, do not alter the header, footer, or any code snippets that were added to the document using Joggr's Code Snippet Explorer. You should see the additions Joggr makes to the header and footer, this is how Joggr tracks the document. If you change any of those pieces of the document it will break Joggr's connection to this document and Joggr will be unable to maintain the document for you automatically.
 
+## Is there an audit history?
+
+## What happens when I move documents in Joggr? GitHub?
+
 <!-- @joggr:editLink(d7a40021-0c3b-4be0-ac2d-f86affb84027):start -->
 ---
 <a href="https://app.joggr.io/app/documents/d7a40021-0c3b-4be0-ac2d-f86affb84027" alt="Edit doc on Joggr">
