@@ -1,5 +1,5 @@
 <!--@@joggrdoc@@-->
-<!-- @joggr:version(v1):end -->
+<!-- @joggr:version(v2):end -->
 <!-- @joggr:warning:start -->
 <!-- 
   _   _   _    __        __     _      ____    _   _   ___   _   _    ____     _   _   _ 
@@ -71,9 +71,29 @@ If you need help on how to think about this, please reach out to the Joggr team 
 
 # Common FAQs
 
-## Can I see an audit history?
+**Top FAQs**
 
-Yes, of course. Joggr is built on top of GitHub. Every JoggrDoc created is committed to GitHub as a markdown file. Therefore, you can manage the audit history just like you do with your codebase 😀 [Here](https://docs.github.com/en/repositories/working-with-files/using-files/viewing-a-file#viewing-the-line-by-line-revision-history-for-a-file) is GitHub's documentation on how to view the history of a file.
+1. Can you update the documents in GitHub, and IDE, or do all changes need to occur in Joggr?
+
+## Where in GitHub is the document saved?
+
+## How does Joggr maintain the document?
+
+## Can you update the markdown file in GitHub?
+
+Yes, you can make changes to the markdown file in your IDE, GitHub, or Joggr. If you are making edits to the document in your IDE or GitHub, do not do any of the following or it will break Joggr's connection to this document:
+
+* Do NOT change anything in the Header, specifically anything above `<!-- @joggr⚠end -->`
+
+* Do NOT change anything in the Footer, specifically, anything below `<!-- @joggr:editLink(558d484d-9fc2-41d1-9321-c31093e9946c):start -->`
+
+* If you added code snippets to the document using Joggr, do NOT change these code snippets.
+
+For these reasons, we recommend making all updates in Joggr, so that Joggr can keep the connection to this document, which is how we help maintain the document.
+
+## How do you delete a document?
+
+To delete a document, click on the ellipsis in the top right corner of a document and click "Delete". This will only delete the document from Joggr, it does not delete the document in GitHub. If you want to delete the document in GitHub, go to GitHub and delete the document. When you delete a document from GitHub, Joggr automatically deletes the document in Joggr.
 
 ## What happens when I move documents in Joggr? GitHub?
 
@@ -81,9 +101,9 @@ In Joggr, feel free to move documents into any directory that you desire. Moving
 
 If you move a document (.md) file in GitHub that also exists in Joggr, there will be no issue. However, there is one edge case we currently do not support. If you move a GitHub .md file to another location in GitHub AND rename it at the same time, this will cause the Joggr "link" to the document to break. We use this link to help maintain the document. Please reach out if you have any questions on this edge case.
 
-## What happens when I delete a document? Does it delete in GitHub?
+## Is there an audit history?
 
-When you delete a document in Joggr, it only deletes it in Joggr. The document will remain in Github. If you delete a document in GitHub, then the document will be deleted in both GitHub and Joggr.
+Yes, there is an audit history. Joggr is built on top of GitHub. Every JoggrDoc created is committed to GitHub as a markdown file. Therefore, you can manage the audit history just like you do with your codebase 😀 [Here](https://docs.github.com/en/repositories/working-with-files/using-files/viewing-a-file#viewing-the-line-by-line-revision-history-for-a-file) is GitHub's documentation on how to view the history of a file.
 
 # Need Help?
 
@@ -91,7 +111,7 @@ If you are looking for more help, please reach out to us in your company's slack
 
 <!-- @joggr:editLink(d7a40021-0c3b-4be0-ac2d-f86affb84027):start -->
 ---
-<a href="https://app.joggr.io/app/documents/d7a40021-0c3b-4be0-ac2d-f86affb84027/edit" alt="Edit doc on Joggr">
-  <img src="https://storage.googleapis.com/joggr-public-assets/github/badges/edit-document-badge.svg" />
+<a href="https://app.joggr.io/app/documents/d7a40021-0c3b-4be0-ac2d-f86affb84027" alt="Edit doc on Joggr">
+  <img src="https://cdn.joggr.io/assets/static/badges/joggr-document-edit.svg?did=d7a40021-0c3b-4be0-ac2d-f86affb84027" />
 </a>
 <!-- @joggr:editLink(d7a40021-0c3b-4be0-ac2d-f86affb84027):end -->
