@@ -73,6 +73,10 @@ If you need help on how to think about this, please reach out to the Joggr team 
 
 ## Where in GitHub is the document saved?
 
+You can save the document wherever you like in GitHub. In the top left of a document, next to the GitHub icon, you will see where the document is stored in GitHub.
+
+Some developers prefer to save the document as close to the code it's describing (e.g. save the "How to add a new route" guide under `/routes` folder). Other developers prefer to create a separate repository to store all of the documentation. You can also do a combination of both.
+
 ## How does Joggr maintain the document?
 
 ## Can you update the markdown file in GitHub?
