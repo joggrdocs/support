@@ -75,11 +75,11 @@ If you need help on how to think about this, please reach out to the Joggr team 
 
 You can save the document wherever you like in GitHub. In the top left of a document, next to the GitHub icon, you will see where the document is stored in GitHub.
 
-Some developers prefer to save the document as close to the code it's describing (e.g. save the "How to add a new route" guide under `/routes` folder). Other developers prefer to create a separate repository to store all of the documentation. You can also do a combination of both.
+Some developers prefer to save the document as close to the code it's describing (e.g. save the "How to add a new route" guide under `/routes` folder). Other developers prefer to create a separate repository to store all of the documentation there. You can also do a combination of both.
 
 ## How does Joggr maintain the document?
 
-When a developer adds a code snippet to a document using Joggr's Code Snippet Explorer, Joggr tracks whether that code changes in your codebase and notifies a developer during the Pull Request process to let them know that this code change will make a document go out of date.
+When a developer adds a code snippet to a document using Joggr's Code Snippet Explorer, Joggr tracks whether this code changes and notifies a developer during the Pull Request process if a code change will make a document go out of date.
 
 For example, let's say that a developer adds a code snippet like the following to a document: `function myFirstFunction() {  exampleFunction("Hello");}` and two days later the developer opens a pull request to change this function in the codebase. During the pull request, Joggr analyzes your code changes to determine if any documentation is out of date. In this example, this code snippet would be out of date, so Joggr would send a Pull Request message (like below) telling the developer that the document is out of date.
 
@@ -87,17 +87,19 @@ For example, let's say that a developer adds a code snippet like the following t
 
 ## Can you update the markdown file in GitHub?
 
-You can change the markdown file in your IDE, GitHub, or Joggr. If you are making edits to the document in your IDE or GitHub, do not alter the header, footer, or any code snippets that were added to the document using Joggr's Code Snippet Explorer. You should see the additions Joggr makes to the header and footer, this is how Joggr tracks the document. If you change any of those pieces of the document it will break Joggr's connection to this document and Joggr will be unable to maintain the document for you automatically.
+You can change the markdown file in your IDE, GitHub, or Joggr.
+
+If you are making edits to the document in your IDE or GitHub, do not alter the header, footer, or any code snippets that were added to the document using Joggr's Code Snippet Explorer. You should see the additions Joggr makes to the header and footer, this is how Joggr tracks the document. If you change any of those pieces of the document, it will break Joggr's connection to this document and Joggr will be unable to maintain the document for you automatically.
 
 ## Is there an audit history?
 
-Yes, you can. Joggr is built on top of GitHub. Every JoggrDoc created is committed to GitHub as a markdown file. Therefore, you can manage the audit history just like you do with your codebase 😀 [*Here*](https://docs.github.com/en/repositories/working-with-files/using-files/viewing-a-file#viewing-the-line-by-line-revision-history-for-a-file) is GitHub's documentation on how to view the history of a file.
+Yes. Joggr is built on top of GitHub. Every JoggrDoc created is committed to GitHub as a markdown file. Therefore, you can manage the audit history just like you do with your codebase 😀 [*Here*](https://docs.github.com/en/repositories/working-with-files/using-files/viewing-a-file#viewing-the-line-by-line-revision-history-for-a-file) is GitHub's documentation on how to view the history of a file.
 
 ## What happens when I move documents in Joggr? GitHub?
 
-In Joggr, feel free to move documents into any directory that you desire. Moving documents between directories in Joggr will have zero impact on where this is stored in GitHub.
+In Joggr, feel free to move documents into any directory that you desire. Moving documents between directories in Joggr has zero impact on where it's stored in GitHub.
 
-If you move a document (.md) file in GitHub that also exists in Joggr, there will be no issue. However, there is one edge case we currently do not support. If you move a GitHub .md file to another location in GitHub AND rename it at the same time, this will cause the Joggr "link" to the document to break. We use this link to help maintain the document. Please reach out if you have any questions on this edge case.
+If you move a document (.md) file in GitHub that also exists in Joggr, there will be no issue. However, there is one edge case we currently do not support. If you move a GitHub .md file to another location in GitHub AND rename it at the same time, this will cause the Joggr "link" to the document to break. We use this link to help maintain the document. In this case, please move the document, then re-name the document in Joggr.
 
 <!-- @joggr:editLink(d7a40021-0c3b-4be0-ac2d-f86affb84027):start -->
 ---
