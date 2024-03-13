@@ -91,7 +91,13 @@ You can change the markdown file in your IDE, GitHub, or Joggr. If you are makin
 
 ## Is there an audit history?
 
+Yes, you can. Joggr is built on top of GitHub. Every JoggrDoc created is committed to GitHub as a markdown file. Therefore, you can manage the audit history just like you do with your codebase 😀 [*Here*](https://docs.github.com/en/repositories/working-with-files/using-files/viewing-a-file#viewing-the-line-by-line-revision-history-for-a-file) is GitHub's documentation on how to view the history of a file.
+
 ## What happens when I move documents in Joggr? GitHub?
+
+In Joggr, feel free to move documents into any directory that you desire. Moving documents between directories in Joggr will have zero impact on where this is stored in GitHub.
+
+If you move a document (.md) file in GitHub that also exists in Joggr, there will be no issue. However, there is one edge case we currently do not support. If you move a GitHub .md file to another location in GitHub AND rename it at the same time, this will cause the Joggr "link" to the document to break. We use this link to help maintain the document. Please reach out if you have any questions on this edge case.
 
 <!-- @joggr:editLink(d7a40021-0c3b-4be0-ac2d-f86affb84027):start -->
 ---
