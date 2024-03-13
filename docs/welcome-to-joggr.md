@@ -79,6 +79,12 @@ Some developers prefer to save the document as close to the code it's describing
 
 ## How does Joggr maintain the document?
 
+When a developer adds a code snippet to a document using Joggr's Code Snippet Explorer, Joggr tracks whether that code changes in your codebase and notifies a developer during the Pull Request process to let them know that this code change will make a document go out of date.
+
+For example, let's say that a developer adds a code snippet like the following to a document: `function myFirstFunction() {  exampleFunction("Hello");}` and two days later the developer opens a pull request to change this function in the codebase. During the pull request, Joggr analyzes your code changes to determine if any documentation is out of date. In this example, this code snippet would be out of date, so Joggr would send a Pull Request message (like below) telling the developer that the document is out of date.
+
+![](https://cdn.joggr.io/assets/content/images/8e3bbbbe-968a-4137-86f5-5e6745de464a.png?authToken=a999a1e2cb231093ad3627ec21774332fc14f1aeb8fccc49bf76e94d44eae951)
+
 ## Can you update the markdown file in GitHub?
 
 Yes, you can make changes to the markdown file in your IDE, GitHub, or Joggr. If you are making edits to the document in your IDE or GitHub, do not do any of the following or it will break Joggr's connection to this document:
